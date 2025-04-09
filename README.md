@@ -26,8 +26,8 @@ See [TECH_STACK.md](TECH_STACK.md)
 ![art1](https://github.com/user-attachments/assets/779ed8d1-6ea7-46d7-8080-87f31c977a5b)
 ![art3](https://github.com/user-attachments/assets/d7c354b2-2a8e-43f4-b3c6-aeb74ff12627)
 ![art2](https://github.com/user-attachments/assets/004e8b88-98d0-4f22-9846-91675fb1d289)
-![dash2](https://github.com/user-attachments/assets/36cc4995-7c6c-4ad6-922f-6ddb735a59a4)
 ![dash1](https://github.com/user-attachments/assets/81c5381c-3f17-4af8-8677-2c0a414ed8e6)
+![dash2](https://github.com/user-attachments/assets/36cc4995-7c6c-4ad6-922f-6ddb735a59a4)
 
 
 ---
